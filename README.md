@@ -14,6 +14,7 @@ Multicast test software developed using WPF that supports custom non-uniform sen
 - 支持指定源和任意源组播
 - 发送间隔精确度<1ms，可定义<1ms 的时间间隔
 - 发送间隔支持非均匀定义，如定义为 1;2;3，发送的包间隔为 "包 1ms 包 2ms 包 3ms 包 1ms 包 2ms 包 3ms 包 1ms 包 2ms 包 3ms 包。。。。"
+- 支持接收数据统计，支持乱序、错误包等提示统计
 
 ## 截图
 
